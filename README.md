@@ -6,7 +6,7 @@
 
 | Day | Problem | Platform | Difficulty | Status |
 |-----|---------|----------|------------|--------|
-| 001 | - | - | - | ⏳ |
+| 001 | Two Sum | LeetCode | Easy | ✅ |
 | 002 | - | - | - | ⏳ |
 | 003 | - | - | - | ⏳ |
 
