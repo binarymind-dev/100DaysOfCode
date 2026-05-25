@@ -7,7 +7,7 @@
 | Day | Problem | Platform | Difficulty | Status |
 |-----|---------|----------|------------|--------|
 | 001 | Two Sum | LeetCode | Easy | ✅ |
-| 002 | - | - | - | ⏳ |
+| 002 | Longest Substring Without Repeating Characters | LeetCode | Medium | ✅ |
 | 003 | - | - | - | ⏳ |
 
 ## 🎯 Goal
