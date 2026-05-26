@@ -8,7 +8,7 @@
 |-----|---------|----------|------------|--------|
 | 001 | Two Sum | LeetCode | Easy | ✅ |
 | 002 | Longest Substring Without Repeating Characters | LeetCode | Medium | ✅ |
-| 003 | - | - | - | ⏳ |
+| 003 | Second Order Statistics | Codeforces | 800 | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
