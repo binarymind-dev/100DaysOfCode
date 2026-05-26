@@ -9,7 +9,6 @@ int lengthOfLongestSubstring(string s) {
     int maxLength = 0;
 
     while (right < s.length()) {
-
         // If character not found, add it
         if (st.find(s[right]) == st.end()) {
             st.insert(s[right]);
