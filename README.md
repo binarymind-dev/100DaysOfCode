@@ -9,6 +9,7 @@
 | 001 | Two Sum | LeetCode | Easy | ✅ |
 | 002 | Longest Substring Without Repeating Characters | LeetCode | Medium | ✅ |
 | 003 | Second Order Statistics | Codeforces | 800 | ✅ |
+| 004 | Arrays - declaration, traversal, sum, average and max | C++ Topic | Easy | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
