@@ -7,10 +7,12 @@
 | Day | Problem | Platform | Difficulty | Status |
 |-----|---------|----------|------------|--------|
 | 001 | Two Sum | LeetCode | Easy | ✅ |
-| 002 | Longest Substring Without Repeating Characters | LeetCode | Medium | ✅ |
-| 003 | Second Order Statistics | Codeforces | 800 | ✅ |
-| 004 | Arrays - declaration, traversal, sum, average and max | C++ Topic | Easy | ✅ |
+| 002 | Minimum Window Substring | LeetCode | Hard | ✅ |
+| 003 | Binary Search | LeetCode | Easy | ✅ |
+| 004 | Maximum Subarray - Kadane's | LeetCode | Medium | ✅ |
 | 005 | Best Time to Buy & Sell Stock | LeetCode | Easy | ✅ |
+| 006 | Prefix Sum | LeetCode | Easy | ✅ |
+| 007 | 3Sum | LeetCode | Medium | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
