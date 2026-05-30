@@ -14,6 +14,7 @@
 | 006 | Prefix Sum | LeetCode | Easy | ✅ |
 | 007 | 3Sum | LeetCode | Medium | ✅ |
 | 008 | Contains Duplicate | LeetCode | Easy | ✅ |
+| 009 | Valid Anagram | LeetCode | Easy | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
