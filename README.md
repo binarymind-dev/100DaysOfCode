@@ -15,6 +15,7 @@
 | 007 | 3Sum | LeetCode | Medium | ✅ |
 | 008 | Contains Duplicate | LeetCode | Easy | ✅ |
 | 009 | Valid Anagram | LeetCode | Easy | ✅ |
+| 010 | Reverse Link List | Leetcode | Easy | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
