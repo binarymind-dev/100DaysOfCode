@@ -16,6 +16,7 @@
 | 008 | Contains Duplicate | LeetCode | Easy | ✅ |
 | 009 | Valid Anagram | LeetCode | Easy | ✅ |
 | 010 | Reverse Link List | Leetcode | Easy | ✅ |
+| 012 | Merge Two Sorted Lists | LeetCode | Easy | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
