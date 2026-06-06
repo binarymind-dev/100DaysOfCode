@@ -18,6 +18,7 @@
 | 010 | Reverse Link List | Leetcode | Easy | ✅ |
 | 012 | Merge Two Sorted Lists | LeetCode | Easy | ✅ |
 | 013 | Binary Search | Leetcode | Easy |  ✅ |
+| 015 | Maximum Subarray - Kadane's | LeetCode | Medium | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
