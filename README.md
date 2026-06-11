@@ -21,6 +21,7 @@
 | 014 | Climbing Stairs | LeetCode | Easy | ✅ |
 | 015 | Maximum Subarray - Kadane's | LeetCode | Medium | ✅ |
 | 016 | Invert Binary Tree | LeetCode | Medium | ✅ |
+| 019 | Course Schedule | LeetCode | Medium | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
