@@ -22,6 +22,8 @@
 | 015 | Maximum Subarray - Kadane's | LeetCode | Medium | ✅ |
 | 016 | Invert Binary Tree | LeetCode | Medium | ✅ |
 | 019 | Course Schedule | LeetCode | Medium | ✅ |
+| 020 | Longest Common Subsequence | LeetCode | Medium | ✅ |
+
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
