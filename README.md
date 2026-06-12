@@ -23,6 +23,7 @@
 | 016 | Invert Binary Tree | LeetCode | Medium | ✅ |
 | 019 | Course Schedule | LeetCode | Medium | ✅ |
 | 020 | Longest Common Subsequence | LeetCode | Medium | ✅ |
+| 021 | Coin Change | LeetCode | Medium | ✅ |
 
 
 ## 🎯 Goal
