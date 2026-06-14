@@ -24,6 +24,7 @@
 | 019 | Course Schedule | LeetCode | Medium | ✅ |
 | 020 | Longest Common Subsequence | LeetCode | Medium | ✅ |
 | 021 | Coin Change | LeetCode | Medium | ✅ |
+| 022 | House Robber | LeetCode | Medium | ✅ |
 
 
 ## 🎯 Goal
