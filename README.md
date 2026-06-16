@@ -26,7 +26,7 @@
 | 021 | Coin Change | LeetCode | Medium | ✅ |
 | 022 | House Robber | LeetCode | Medium | ✅ |
 | 023 | Longest Increasing Subsequence | LeetCode | Medium | ✅ |
-
+| 024 | Word Search | LeetCode | Medium | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
