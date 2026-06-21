@@ -9,7 +9,6 @@ public:
         for (int num : nums) {
             freq[num]++;
         }
- 
         int n = nums.size();
         vector<vector<int>> buckets(n + 1);
         for (auto& [num, count] : freq) {
