@@ -28,7 +28,8 @@
 | 023 | Longest Increasing Subsequence | LeetCode | Medium | ✅ |
 | 024 | Word Search | LeetCode | Medium | ✅ |
 | 025 | Search in Rotated Sorted Array | LeetCode | Medium | ✅ |
-| 033 | Group Anagrams |  LeetCode | Medium | ✅ |
+| 026 | Group Anagrams |  LeetCode | Medium | ✅ |
+| 027 | Top K Frequent Elements | LeetCode | Medium | ✅ |
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
