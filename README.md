@@ -30,6 +30,9 @@
 | 025 | Search in Rotated Sorted Array | LeetCode | Medium | ✅ |
 | 026 | Group Anagrams |  LeetCode | Medium | ✅ |
 | 027 | Top K Frequent Elements | LeetCode | Medium | ✅ |
+| 028 | Encode and Decode Strings | LeetCode | Medium | ✅ |
+|029  | Longest Consecutive Sequence | LeetCode | Medium | ✅ |
+
 
 ## 🎯 Goal
 - [ ] Complete 100 Days
