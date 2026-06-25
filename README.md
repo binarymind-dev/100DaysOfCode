@@ -32,6 +32,7 @@
 | 027 | Top K Frequent Elements | LeetCode | Medium | ✅ |
 | 028 | Encode and Decode Strings | LeetCode | Medium | ✅ |
 |029  | Longest Consecutive Sequence | LeetCode | Medium | ✅ |
+| 38 | 038 | Min Stack | LeetCode | Medium | ✅ |
 
 
 ## 🎯 Goal
