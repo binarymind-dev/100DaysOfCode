@@ -31,8 +31,9 @@
 | 026 | Group Anagrams |  LeetCode | Medium | ✅ |
 | 027 | Top K Frequent Elements | LeetCode | Medium | ✅ |
 | 028 | Encode and Decode Strings | LeetCode | Medium | ✅ |
-|029  | Longest Consecutive Sequence | LeetCode | Medium | ✅ |
-| 38 | 038 | Min Stack | LeetCode | Medium | ✅ |
+| 029  | Longest Consecutive Sequence | LeetCode | Medium | ✅ |
+| 038 | Min Stack | LeetCode | Medium | ✅ |
+| 039 | Evaluate Reverse Polish Notation |  LeetCode | Medium | ✅ |
 
 
 ## 🎯 Goal
