@@ -32,8 +32,10 @@
 | 027 | Top K Frequent Elements | LeetCode | Medium | ✅ |
 | 028 | Encode and Decode Strings | LeetCode | Medium | ✅ |
 | 029  | Longest Consecutive Sequence | LeetCode | Medium | ✅ |
+| 030 | 3Sum closests | Leetcode | Medium | ✅ |
+| 031 | Evaluate Reverse Polish Notation |  LeetCode | Medium | ✅ |
+| 033 | Daily Temperatures |  LeetCode | Medium | ✅ |
 | 038 | Min Stack | LeetCode | Medium | ✅ |
-| 039 | Evaluate Reverse Polish Notation |  LeetCode | Medium | ✅ |
 
 
 ## 🎯 Goal
