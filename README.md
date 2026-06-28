@@ -35,7 +35,9 @@
 | 030 | 3Sum closests | Leetcode | Medium | ✅ |
 | 031 | Evaluate Reverse Polish Notation |  LeetCode | Medium | ✅ |
 | 033 | Daily Temperatures |  LeetCode | Medium | ✅ |
+| 034 |  Car Fleet | LeetCode | Medium | ✅ |
 | 038 | Min Stack | LeetCode | Medium | ✅ |
+
 
 
 ## 🎯 Goal
