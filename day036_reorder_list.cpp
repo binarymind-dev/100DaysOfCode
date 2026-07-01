@@ -13,7 +13,6 @@ class Solution {
 public:
     void reorderList(ListNode* head) {
         if (!head || !head->next) return;
-
         ListNode* slow = head;
         ListNode* fast = head;
         while (fast->next && fast->next->next) {
