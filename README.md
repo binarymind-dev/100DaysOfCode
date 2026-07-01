@@ -39,6 +39,7 @@
 | 035 | Largest Rectangle in Histogram | LeetCode | Hard | ✅ |
 | 036 | Linked List Cycle | LeetCode | Medium | ✅ |
 | 038 | Min Stack | LeetCode | Medium | ✅ |
+| 036 | Reorder List | LeetCode | Medium | ✅ |
 
 
 
